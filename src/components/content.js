@@ -8,7 +8,7 @@ const Content = () => (
   <div style={{ padding: "4rem 1rem", textAlign: "center" }}>
     <SectionHeader
       title="Minimal Features"
-      description="Don't spend time ripping out unneeded plugins and bloat."
+      description=" The smarty news app gives you the latest news to keep you updated with everything happening in the world."
     />
     <content
       style={{
@@ -19,10 +19,12 @@ const Content = () => (
       }}
     >
       <div>
-        <h3>What you need to Start</h3>
+        <h3>Why ?</h3>
         <p style={{ color: COLORS.gray }}>
-          Includes plugins for analytics, building sitemaps, and optimizing
-          images
+       
+
+ All newest and most interesting trends available with the smarty news application.
+
         </p>
       </div>
       <div>

@@ -23,10 +23,12 @@ const Footer = ({ siteTitle }) => (
       <div style={{ color: COLORS.blue, fontWeight: 700 }}>
         <a
           style={{ textDecoration: "none" }}
-          href="https://github.com/gillkyle/gatsby-starter-landing-page"
+          href="/privacy-policy"
         >
-          Contact Us
+         Privacy Policy
         </a>
+
+
       </div>
       <div style={{ color: COLORS.gray }}>
         © {new Date().getFullYear()}

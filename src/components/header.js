@@ -21,6 +21,11 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
+      <Link
+          to="/privacy-policy"
+        >
+          Privacy Policy
+        </Link>
     </div>
   </header>
 )
