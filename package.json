@@ -1,8 +1,9 @@
 {
-  "name": "gatsby-starter-landing-page",
+  "name": "smartynews",
   "private": true,
-  "description": "A simple starter to create a minimal landing page with Gatsby",
+  "description": "Landing page of the mobile application SmartyNews",
   "version": "0.1.0",
+  "author": "Christos Malamas",
   "dependencies": {
     "gatsby": "^2.1.37",
     "gatsby-image": "^2.0.34",
